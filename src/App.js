@@ -20,8 +20,8 @@ function App() {
         >
           Press F to pay somber respects
         </a>
-        <a href="https://google.com" target="blank">Click me</a>
-        <a href="http://uct.ac.za">Click this too</a>
+        <a href="https://owenventer.com" target="blank">BEST BLOG ON THE PLANET</a>
+        <a href="https://owenventer.com">Click this too</a>
       </header>
     </div>
   );
