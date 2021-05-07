@@ -5,10 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <font color="red"><h1>David's toast is cold</h1></font>
         <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-          ECOCOIN
+          
+          <b><font color="blue"> ICE COLD</font></b>
         </p>
         <a
           className="App-link"
@@ -16,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Press F to pay respects
         </a>
       </header>
     </div>
