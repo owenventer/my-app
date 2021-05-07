@@ -20,7 +20,7 @@ function App() {
         >
           Press F to pay somber respects
         </a>
-        <a href="https://owenventer.com" target="blank">BEST BLOG ON THE PLANET</a>
+        <a href="https://owenventer.com" target="blank">Second BLOG ON THE PLANET</a>
         <a href="https://owenventer.com">Click this too</a>
       </header>
     </div>
