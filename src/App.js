@@ -20,7 +20,7 @@ function App() {
         >
           Press F to pay respects
         </a>
-        <a href="https://google.com">Click me</a>
+        <a href="https://google.com" target="blank">Click me</a>
       </header>
     </div>
   );
