@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 style={{"color": "royalblue"}}>David's toast is always pooessssss cold and hard</h1>
+        <h1 style={{"color": "royalblue"}}>David's toast is burnt</h1>
         <p>Some test text</p>
         <p>Owen's new text</p>
         <img src={logo} className="App-logo" alt="logo" />
