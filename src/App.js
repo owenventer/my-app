@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1 style={{"color": "royalblue"}}>David's toast is always very poes cold and hard</h1>
         <p>Some test text</p>
+        <p>Owen's new text</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <b><font color="blue"> ICE COLD AND ROCK HARD</font></b>
