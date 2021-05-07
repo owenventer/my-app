@@ -5,11 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p style={{"color": "royalblue"}}><h1>David's toast is always very poes cold and hard</h1></p>
+        <h1 style={{"color": "royalblue"}}>David's toast is always very poes cold and hard</h1>
+        <p>Some test text</p>
         <img src={logo} className="App-logo" alt="logo" />
-        
         <p>
-          
           <b><font color="blue"> ICE COLD AND ROCK HARD</font></b>
         </p>
         <a
