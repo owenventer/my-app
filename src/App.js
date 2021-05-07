@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Press F to pay respects
+          Press F to pay somber respects
         </a>
         <a href="https://google.com">Click me</a>
       </header>
