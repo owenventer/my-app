@@ -21,6 +21,7 @@ function App() {
           Press F to pay somber respects
         </a>
         <a href="https://google.com" target="blank">Click me</a>
+        <a href="uct.ac.za">Click this too</a>
       </header>
     </div>
   );
